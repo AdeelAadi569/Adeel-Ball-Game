@@ -1,0 +1,5 @@
+1)Task 1-Ball Blast
+2)IN this game ball moved randomely(left+right+Up+Down). it's new and interesting for me that's why it's new for me
+3)i face the movement of ball but solved .
+
+4)also stuck in ball text and not solved in given tume.
